@@ -1,0 +1,19 @@
+{
+  "name": "Sistema-Biblioteca",
+  "version": "1.0.0",
+  "description": "API for library reservations. OwO",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/programame-esta/Sistema-Biblioteca",
+  "keywords": [
+    "API",
+	"electron"
+  ],
+  "author": "programame-esta",
+  "devDependencies": {
+    "electron": "^2.0.9",
+    "electron-packager": "^12.1.2"
+  }
+}
